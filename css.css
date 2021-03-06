@@ -1,0 +1,9 @@
+.backgroundimg {
+  background-color: #ffffff;
+  background-image: url(webb.jpg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 1490vh;
+}
